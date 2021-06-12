@@ -111,7 +111,10 @@ compilation of libraries that have been helpful for data analysis
     * [Python ZEEF](https://python.zeef.com/alan.richmond)
     * [Pythonic News](https://news.python.sc/)
     * [What the f*ck Python!](https://github.com/satwikkansal/wtfpython)
-
+    * [kdnuggets](https://www.kdnuggets.com)
+    * [O'reilly](https://www.oreilly.com/)
+    * [Towards Data Science](https://towardsdatascience.com/)
+    * [Reddit-Data Science](https://www.reddit.com/r/datascience)
 ## Newsletters
 
 * [Awesome Python Newsletter](http://python.libhunt.com/newsletter)
