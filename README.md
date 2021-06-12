@@ -10,6 +10,7 @@ compilation of libraries that have been helpful for data analysis
   - [Data Visualization](#data-visualization)
   - [Database Drivers](#database-drivers)
   - [Date and Time](#date-and-time)
+  - [Decentralized Systems](#Decentralized Systems)
   - [Machine Learning](#machine-learning)
   - [Theory](#Theory)
   - [Learn](#Learn)
@@ -114,6 +115,19 @@ compilation of libraries that have been helpful for data analysis
 * [PyTime](https://github.com/shinux/PyTime) - An easy-to-use Python module which aims to operate date/time/datetime by string.
 * [pytz](https://launchpad.net/pytz) - World timezone definitions, modern and historical. Brings the [tz database](https://en.wikipedia.org/wiki/Tz_database) into Python.
 * [when.py](https://github.com/dirn/When.py) - Providing user-friendly functions to help perform common date and time actions.
+
+## Decentralized Systems
+
+- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
+- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
+- [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
+- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
+- [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
+- [Corda](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
+- [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+- [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
 
 ## Machine Learning
