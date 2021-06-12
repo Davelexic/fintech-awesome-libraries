@@ -9,6 +9,7 @@ compilation of libraries that have been helpful for data analysis
   - [Database Drivers](#database-drivers)
   - [Date and Time](#date-and-time)
   - [Machine Learning](#machine-learning)
+  - [Theory](#Theory)
   - [Websites](#websites)
   - [Newsletters](#newsletters)
 
@@ -101,6 +102,19 @@ compilation of libraries that have been helpful for data analysis
 * [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - A lightweight Python wrapper for [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/).
 * [xgboost](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 * [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
+
+## Theory
+
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
+- [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
+- [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
+	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+- [Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
+- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
+- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
+- [Math](https://github.com/rossant/awesome-math#readme)
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 
 ## Websites
 
