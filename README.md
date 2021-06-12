@@ -1,4 +1,4 @@
-## fintech-awesome-libraries
+## fintech Awesome Libraries
 compilation of libraries that have been helpful for data analysis
 
 - [Awesome Python](#awesome-python)
