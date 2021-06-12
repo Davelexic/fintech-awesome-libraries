@@ -73,19 +73,28 @@
 
 *Libraries for visualizing data. Also see [awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization).*
 
-* [Altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
+### General Purposes
+* [Matplotlib](https://github.com/matplotlib/matplotlib) - Plotting with Python.
+* [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib.
+* [prettyplotlib](https://github.com/olgabot/prettyplotlib) - Painlessly create beautiful matplotlib plots.
+* [python-ternary](https://github.com/marcharper/python-ternary) - Ternary plotting library for python with matplotlib.
+* [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
+* [chartify](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
+* [physt](https://github.com/janpipek/physt) - Improved histograms.
+### Interactive plots
+* [animatplot](https://github.com/t-makaro/animatplot) - A python package for animating plots build on matplotlib.
+* [plotly](https://plot.ly/python/) - A Python library that makes interactive and publication-quality graphs.
 * [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
-* [bqplot](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook
-* [Dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
-    * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
-* [diagrams](https://github.com/mingrammer/diagrams) - Diagram as Code.
-* [Matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
-* [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
-* [Pygal](http://www.pygal.org/en/latest/) - A Python SVG Charts Creator.
-* [PyGraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
-* [PyQtGraph](http://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
-* [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using Matplotlib.
-* [VisPy](https://github.com/vispy/vispy) - High-performance scientific visualization based on OpenGL.
+* [Altair](https://altair-viz.github.io/) - Declarative statistical visualization library for Python. Can easily do many data transformation within the code to create graph
+* [bqplot](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
+* [pyecharts](https://github.com/pyecharts/pyecharts) -  a charting and visualization library, to Python's interactive visual drawing library.
+### Map
+* [folium](https://python-visualization.github.io/folium/quickstart.html#Getting-Started) - Makes it easy to visualize data on an interactive open street map
+* [geemap](https://github.com/giswqs/geemap) - Python package for interactive mapping with Google Earth Engine (GEE)
+### Automatic Plotting
+* [HoloViews](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
+* [AutoViz](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
+* [SweetViz](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 
 
 ## Database Drivers
