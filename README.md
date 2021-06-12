@@ -121,3 +121,4 @@ compilation of libraries that have been helpful for data analysis
 * [Pycoder's Weekly](http://pycoders.com/)
 * [Python Tricks](https://realpython.com/python-tricks/)
 * [Python Weekly](http://www.pythonweekly.com/)
+* [Data Elixir](https://dataelixir.com)
