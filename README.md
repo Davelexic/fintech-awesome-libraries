@@ -13,6 +13,7 @@
   - [Data Science](#Data-Science)
   - [Decentralized Systems](#Decentralized-Systems)
   - [Machine Learning](#machine-learning)
+  - [Automated Machine Learning](#Automated-Machine-Learning)
   - [Theory](#Theory)
   - [Learn](#Learn)
   - [Work](#Work)
@@ -170,6 +171,12 @@
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph structured data.
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 * [causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms.
+
+### Automated Machine Learning
+* [TPOT](https://github.com/rhiever/tpot) - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. 
+* [auto-sklearn](https://github.com/automl/auto-sklearn) - An automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
+* [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
+
 ## Theory
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
