@@ -100,7 +100,6 @@ compilation of libraries that have been helpful for data analysis
     * [sqlite3](https://docs.python.org/3/library/sqlite3.html) - (Python standard library) SQlite interface compliant with DB-API 2.0
     * [SuperSQLite](https://github.com/plasticityai/supersqlite) - A supercharged SQLite library built on top of [apsw](https://github.com/rogerbinns/apsw).
 
-
 ## Date and Time
 
 *Libraries for working with dates and times.*
