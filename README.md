@@ -14,7 +14,7 @@ compilation of libraries that have been helpful for data analysis
 
 ## Cheats-sheets
 * [Github Cheat sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) - A collection of cool hidden and not so hidden features of Git and GitHub.
-
+* [Git tips](https://github.com/git-tips/tips#readme) - Collection of tips for Git.
 
 
 ## Cryptography
