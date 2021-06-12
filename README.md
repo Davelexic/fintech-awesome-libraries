@@ -14,6 +14,7 @@
   - [Decentralized Systems](#Decentralized-Systems)
   - [Machine Learning](#machine-learning)
   - [Automated Machine Learning](#Automated-Machine-Learning)
+  - [Tensor Flow](#Tensor-Flow)
   - [Theory](#Theory)
   - [Learn](#Learn)
   - [Work](#Work)
@@ -176,6 +177,30 @@
 * [TPOT](https://github.com/rhiever/tpot) - Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. 
 * [auto-sklearn](https://github.com/automl/auto-sklearn) - An automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
 * [MLBox](https://github.com/AxeldeRomblay/MLBox) - A powerful Automated Machine Learning python library.
+
+## TensorFlow
+* [TensorFlow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning by Google.
+* [TensorLayer](https://github.com/zsdonghao/tensorlayer) - Deep Learning and Reinforcement Learning Library for Researcher and Engineer. 
+* [TFLearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow. 
+* [Sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library.
+* [tensorpack](https://github.com/ppwwyyxx/tensorpack) - A Neural Net Training Interface on TensorFlow.
+* [Polyaxon](https://github.com/polyaxon/polyaxon) - A platform that helps you build, manage and monitor deep learning models. 
+* [NeuPy](https://github.com/itdxer/neupy) - NeuPy is a Python library for Artificial Neural Networks and Deep Learning
+* [tfdeploy](https://github.com/riga/tfdeploy) - Deploy tensorflow graphs for fast evaluation and export to tensorflow-less environments running numpy.
+* [tensorflow-upstream](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream) - TensorFlow ROCm port. 
+* [TensorFlow Fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow. 
+* [tensorlm](https://github.com/batzner/tensorlm) - Wrapper library for text generation / language models at char and word level with RNN. 
+* [TensorLight](https://github.com/bsautermeister/tensorlight) - A high-level framework for TensorFlow. 
+* [Mesh TensorFlow](https://github.com/tensorflow/mesh) - Model Parallelism Made Easier. 
+* [Ludwig](https://github.com/uber/ludwig) - A toolbox, that allows to train and test deep learning models without the need to write code. 
+* [Keras](https://keras.io) - A high-level neural networks API running on top of TensorFlow.
+* [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.
+* [Hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A very simple wrapper for convenient hyperparameter.
+* [Elephas](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark.
+* [Hera](https://github.com/keplr-io/hera) - Train/evaluate a Keras model, get metrics streamed to a dashboard in your browser.
+* [Spektral](https://github.com/danielegrattarola/spektral) - Deep learning on graphs.
+* [qkeras](https://github.com/google/qkeras) - A quantization deep learning library.
+
 
 ## Theory
 
