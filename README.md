@@ -3,6 +3,7 @@ compilation of libraries that have been helpful for data analysis
 
 - [Awesome Python](#awesome-python)
   - [Books](#Books)
+  - [Business](#Business)
   - [Cheat Sheets](#Cheat-sheets)
   - [Cryptography](#cryptography)
   - [Data Analysis](#data-analysis)
@@ -14,6 +15,7 @@ compilation of libraries that have been helpful for data analysis
   - [Learn](#Learn)
   - [Websites](#websites)
   - [Newsletters](#newsletters)
+  - 
 
 ## Books
 
@@ -24,6 +26,19 @@ compilation of libraries that have been helpful for data analysis
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
 
+## Business
+
+- [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
+- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
+- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
+- [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
+- [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
+- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
+- [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
+- [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ## Cheats-sheets
 * [Github Cheat sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) - A collection of cool hidden and not so hidden features of Git and GitHub.
