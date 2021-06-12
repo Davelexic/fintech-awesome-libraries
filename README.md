@@ -142,11 +142,27 @@
 * [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics.
 * [NuPIC](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 * [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
-* [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library.
-* [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - A lightweight Python wrapper for [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/).
+* [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) -  scalable Machine Learning library.
 * [xgboost](https://github.com/dmlc/xgboost) - A scalable, portable, and distributed gradient boosting library.
 * [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
-
+* [Shogun](http://www.shogun-toolbox.org/) - Machine learning toolbox.
+* [xLearn](https://github.com/aksnzhy/xlearn) - High Performance, Easy-to-use, and Scalable Machine Learning Package.
+* [cuML](https://github.com/rapidsai/cuml) - RAPIDS Machine Learning Library.
+* [modAL](https://github.com/cosmic-cortex/modAL) - Modular active learning framework for Python3. 
+* [Sparkit-learn](https://github.com/lensacom/sparkit-learn) - PySpark + scikit-learn = Sparkit-learn. 
+* [mlpack](https://github.com/mlpack/mlpack) - A scalable C++ machine learning library (Python bindings).
+* [MLxtend](https://github.com/rasbt/mlxtend) - Extension and helper modules for Python's data analysis and machine learning libraries.
+* [hyperlearn](https://github.com/danielhanchen/hyperlearn) - 50%+ Faster, 50%+ less RAM usage, GPU support re-written Sklearn, Statsmodels.
+* [Reproducible Experiment Platform (REP)](https://github.com/yandex/rep) - Machine Learning toolbox for Humans.
+* [seqlearn](https://github.com/larsmans/seqlearn) - Sequence classification toolkit for Python. 
+* [pystruct](https://github.com/pystruct/pystruct) - Simple structured learning framework for Python.
+* [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) - Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models.
+* [RuleFit](https://github.com/christophM/rulefit) - Implementation of the rulefit.
+* [metric-learn](https://github.com/all-umass/metric-learn) - Metric learning algorithms in Python.
+* [pyGAM](https://github.com/dswah/pyGAM) - Generalized Additive Models in Python.
+* [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph structured data.
+* [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
+* [causalml](https://github.com/uber/causalml) - Uplift modeling and causal inference with machine learning algorithms.
 ## Theory
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
