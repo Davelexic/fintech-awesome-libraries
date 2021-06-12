@@ -13,6 +13,7 @@
   - [Data Science](#Data-Science)
   - [Decentralized Systems](#Decentralized-Systems)
   - [Deployment](#Deployment)
+  - [Evaluation](#Evaluation)
   - [Machine Learning](#machine-learning)
   - [Automated Machine Learning](#Automated-Machine-Learning)
   - [Tensor Flow](#Tensor-Flow)
@@ -157,6 +158,12 @@
 * [binder](https://mybinder.org/) - Enable sharing and execute Jupyter Notebooks
 * [fastapi](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python
 * [streamlit](https://www.streamlit.io/) - Make it easy to deploy machine learning model
+
+## Evaluation
+* [recmetrics](https://github.com/statisticianinstilettos/recmetrics) - Library of useful metrics and plots for evaluating recommender systems.
+* [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metric.
+* [sklearn-evaluation](https://github.com/edublancas/sklearn-evaluation) - Model evaluation made easy: plots, tables and markdown reports. 
+* [AI Fairness 360](https://github.com/IBM/AIF360) - Fairness metrics for datasets and ML models, explanations and algorithms to mitigate bias in datasets and models.
 
 
 
