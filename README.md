@@ -74,7 +74,7 @@
 
 ## Data Visualization
 
-*Libraries for visualizing data. Also see [awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization).*
+*Libraries for visualizing data.
 
 ### General Purposes
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - Plotting with Python.
