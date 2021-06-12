@@ -45,7 +45,7 @@
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
-## Cheats-sheets
+## Cheats sheets
 * [Github Cheat sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) - A collection of cool hidden and not so hidden features of Git and GitHub.
 * [Git tips](https://github.com/git-tips/tips#readme) - Collection of tips for Git.
 * [Data Manipulation](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)-Data mutation.
