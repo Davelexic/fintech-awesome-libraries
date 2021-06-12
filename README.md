@@ -13,9 +13,9 @@ compilation of libraries that have been helpful for data analysis
   - [Machine Learning](#machine-learning)
   - [Theory](#Theory)
   - [Learn](#Learn)
+  - [Work](#Work)
   - [Websites](#websites)
   - [Newsletters](#newsletters)
-  - 
 
 ## Books
 
@@ -158,6 +158,17 @@ compilation of libraries that have been helpful for data analysis
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+
+## Work
+
+- [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
+	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
+- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
+- [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
+- [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
+- [Programming Interviews](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+- [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+- [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ## Websites
 
