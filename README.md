@@ -51,6 +51,7 @@
 * [Github Cheat sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) - A collection of cool hidden and not so hidden features of Git and GitHub.
 * [Git tips](https://github.com/git-tips/tips#readme) - Collection of tips for Git.
 * [Data Manipulation](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)-Data mutation.
+* [Data Science Cheatsheet](https://st11.ning.com/topology/rest/1.0/file/get/2808327959?profile=original)
 
 ## Cryptography
 
