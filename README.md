@@ -74,7 +74,7 @@
 
 ## Data Visualization
 
-*Libraries for visualizing data.
+*Libraries for visualizing data.*
 
 ### General Purposes
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - Plotting with Python.
