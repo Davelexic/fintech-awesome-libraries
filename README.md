@@ -10,7 +10,6 @@ compilation of libraries that have been helpful for data analysis
   - [Data Visualization](#data-visualization)
   - [Database Drivers](#database-drivers)
   - [Date and Time](#date-and-time)
-  - [Decentralized Systems](#Decentralized Systems)
   - [Machine Learning](#machine-learning)
   - [Theory](#Theory)
   - [Learn](#Learn)
