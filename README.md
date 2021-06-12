@@ -10,7 +10,6 @@
   - [Data Visualization](#data-visualization)
   - [Database Drivers](#database-drivers)
   - [Date and Time](#date-and-time)
-  - [Data Science](#Data-Science)
   - [Decentralized Systems](#Decentralized-Systems)
   - [Deployment](#Deployment)
   - [Evaluation](#Evaluation)
@@ -135,10 +134,6 @@
 * [dateutil](https://dateutil.readthedocs.io/en/stable/) - Powerful extensions to the standard datetime module
 * [maya](https://github.com/timofurrer/maya) - makes it very easy to parse a string and for changing timezones.
 
-
-
-## Data Science
-* [Data Science for Python](https://github.com/krzjoa/awesome-python-data-science#readme)
 
 ## Decentralized Systems
 
