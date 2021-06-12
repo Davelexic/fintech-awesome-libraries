@@ -2,6 +2,7 @@
 compilation of libraries that have been helpful for data analysis
 
 - [Awesome Python](#awesome-python)
+  - [Cheat Sheets](#Cheat-sheets)
   - [Cryptography](#cryptography)
   - [Data Analysis](#data-analysis)
   - [Data Visualization](#data-visualization)
@@ -10,6 +11,10 @@ compilation of libraries that have been helpful for data analysis
   - [Machine Learning](#machine-learning)
   - [Websites](#websites)
   - [Newsletters](#newsletters)
+
+## Cheats-sheets
+* [Github Cheat sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) - A collection of cool hidden and not so hidden features of Git and GitHub.
+
 
 
 ## Cryptography
