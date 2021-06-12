@@ -10,6 +10,7 @@
   - [Data Visualization](#data-visualization)
   - [Database Drivers](#database-drivers)
   - [Date and Time](#date-and-time)
+  - [Data Science](#Data-Science)
   - [Decentralized Systems](#Decentralized-Systems)
   - [Machine Learning](#machine-learning)
   - [Theory](#Theory)
@@ -114,6 +115,10 @@
 * [pytz](https://launchpad.net/pytz) - World timezone definitions, modern and historical. Brings the [tz database](https://en.wikipedia.org/wiki/Tz_database) into Python.
 * [when.py](https://github.com/dirn/When.py) - Providing user-friendly functions to help perform common date and time actions.
 
+
+## Data Science
+* [Data Science for Python](https://github.com/krzjoa/awesome-python-data-science#readme)
+
 ## Decentralized Systems
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
@@ -204,3 +209,4 @@
 * [Python Tricks](https://realpython.com/python-tricks/)
 * [Python Weekly](http://www.pythonweekly.com/)
 * [Data Elixir](https://dataelixir.com)
+
