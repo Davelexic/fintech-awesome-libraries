@@ -2,6 +2,7 @@
 compilation of libraries that have been helpful for data analysis
 
 - [Awesome Python](#awesome-python)
+  - [Books](#Books)
   - [Cheat Sheets](#Cheat-sheets)
   - [Cryptography](#cryptography)
   - [Data Analysis](#data-analysis)
@@ -12,6 +13,16 @@ compilation of libraries that have been helpful for data analysis
   - [Theory](#Theory)
   - [Websites](#websites)
   - [Newsletters](#newsletters)
+
+## Books
+
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
+- [Go Books](https://github.com/dariubs/GoBooks#readme)
+- [R Books](https://github.com/RomanTsegelskyi/rbooks#readme)
+- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
+- [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
+- [Elixir Books](https://github.com/sger/ElixirBooks#readme)
+
 
 ## Cheats-sheets
 * [Github Cheat sheet](https://github.com/tiimgreen/github-cheat-sheet#readme) - A collection of cool hidden and not so hidden features of Git and GitHub.
